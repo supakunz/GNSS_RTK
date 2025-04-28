@@ -2,7 +2,7 @@
 
 This program is developed for research projects related to Automated Guided Vehicles (AGV). It involves cooperation in the development of several components. This software is designed to extract satellite data using [GNSS-RTK](https://www.ardusimple.com/product/simplertk2blite/) and process it to create accurate routes for AGVs.
 
-<img align="left" src="https://github.com/SupakunZ/GNSS_RTK/assets/168329218/2add411e-2949-45cb-b9d4-d89d171c66ce" style="padding-right:30px;" alt="status" height="365" width="375"/> <img src="https://github.com/SupakunZ/GNSS_RTK/assets/168329218/afb75c6a-a79c-47ee-b603-5051c42cdbf8" alt="status" width="375"/>
+<img src="https://github.com/user-attachments/assets/01c6e5c0-4587-43c9-bd2c-3da3800772c7" alt="Flow Chart" width="770"/>
 
 ## 🏆 Project Overview
 
