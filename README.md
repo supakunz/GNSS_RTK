@@ -10,7 +10,7 @@ This project focuses on using GNSS-RTK to assist in guiding AGVs along predeterm
 
 ## 🛠 Architecture & Workflow
 
-<img src="https://github.com/user-attachments/assets/17136cec-75b4-413c-a1d9-90fdefc22d16" alt="Flow Chart" width="770"/>
+<img src="https://github.com/user-attachments/assets/3f394eb2-ac82-40a7-889c-a365678110f2" alt="Flow Chart" width="770"/>
 
 The program's architecture consists of the following main components:
 
