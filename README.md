@@ -89,7 +89,7 @@ cd GNSS_RTK
   - **Real-time AGV Position Tracking**: The program tracks the AGV's position using GNSS data and displays it on a map.
   - **Route Creation**: Automatically generates paths for the AGV to follow based on GNSS data.
   - **Map Display Options**: Users can switch between different map views, such as OpenStreetMap and Google Maps.
-  - **Proximity Alerts**: Alerts when the AGV is within a specified distance (4 meters) of the target point.
+  - **Proximity Alerts**: Alerts when the AGV is within a specified distance (10 meters) of the target point.
 
 ## 💎 Result 
 
