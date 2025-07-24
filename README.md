@@ -101,3 +101,9 @@ https://github.com/user-attachments/assets/b0f40eee-3261-4058-8d7f-4c03f1580003
 - 📄 **`Appendix.pdf`** – Installation guides for third-party tools used in this project.  
 - 📹 **`Result GnssRTK.mp4`** – Demonstration video, located in the `tests/` folder.
 
+## 🙋‍♂️ Contact
+
+Developed by **Supakun Thata**  
+📧 Email: supakunt.thata@gmail.com  
+🔗 GitHub: [SupakunZ](https://github.com/SupakunZ)
+
